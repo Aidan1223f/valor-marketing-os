@@ -15,3 +15,8 @@
 
 ## Join contract
 See `schema.md`. Kill signal for creatives/captions/UGC: first earn @ Better Buzz Point Loma in 7d by `utm_content` / `creator_handle`.
+
+## UGC custom (v1 reality)
+Today: Notion scout digests (hook, likes/saves, journey checklist) — not spend or Supabase `user_id`.
+Kill signal once mart exists: `utm_medium=ugc` + `creator_handle`/`utm_content` → first earn @ BB in 7d.
+Until then: score briefs on journey completeness, not claimed ROAS.
