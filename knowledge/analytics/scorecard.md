@@ -31,3 +31,16 @@ Post-launch monitors:
 - Delivery breakdown by age, placement, geography
 
 Keep this board separate from member launch #1 (first-earn @ BB). Do not roll into one blended CAC.
+
+## Angle tags (required on both boards)
+
+Never one blended CPL/CPA winner across angles.
+
+**Member #1:** named-merchant / Better Buzz only (no merchant-board angles in this bucket).
+
+**Merchant / grader:** separate CPL buckets by angle:
+- densify-military-proof
+- borrowed-authority
+- invisible-offer
+
+Kill: if CPA rises while decision-maker % or booked-call rate falls → pause that angle’s creative. Organic IG/share for member #1 stays named-merchant/BB only.
